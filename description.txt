@@ -1,0 +1,6 @@
+the game consists of a girl and zombie. 
+the girl needs to avoid touching the obstacles
+the girl should collect the diamonds
+if the collection of diamonds reaches 5 or if the score equals 1000,you win
+if you lose you can give another try by reseting the game 
+ENJOY THE GAME!!!
